@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1668630945 source:c:\users\juan pablo\onedrive\escritorio\facultad\progra 2\practic2par\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"lista.h"
+
+1668599872 c:\users\juan pablo\onedrive\escritorio\facultad\progra 2\practic2par\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1668601193 source:c:\users\juan pablo\onedrive\escritorio\facultad\progra 2\practic2par\arbol.c
+	"arbol.h"
+
+1668601709 c:\users\juan pablo\onedrive\escritorio\facultad\progra 2\practic2par\lista.h
+	"arbol.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1668630921 source:c:\users\juan pablo\onedrive\escritorio\facultad\progra 2\practic2par\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+
